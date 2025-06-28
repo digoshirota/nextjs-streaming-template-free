@@ -14,8 +14,8 @@ Perfect as a starting point for building:
 
 ## 🚀 Live Demo (Free Version)
 
-🔗 [https://vibecast-free.vercel.app](https://vibecast-free.vercel.app)  
-*(substitua com seu link real do Vercel assim que publicar)*
+🔗 [https://nextjs-streaming-template-free-vibe.vercel.app/](https://nextjs-streaming-template-free-vibe.vercel.app/)  
+
 
 ---
 
