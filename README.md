@@ -7,7 +7,7 @@ Perfect as a starting point for building:
 - 📺 Content portals
 - 📈 SaaS MVPs or demos
 
-> 💡 This is the **free version**. Want the full version with login, player, dark mode, and more?  
+> 💡 This is the **free version**. Want the full version with more 6+ extra pages: Subscription, Support, 2 Category Page , Product Detail. 
 > 👉 [Get the Premium Version on Gumroad →](https://digo1.gumroad.com/l/vibecast-next-js-streaming-template)
 
 ---
@@ -31,10 +31,8 @@ Perfect as a starting point for building:
 
 ## 🔥 Premium Version Includes
 
-✅ 6+ extra pages: Player, Login, Dashboard, Pricing, etc.  
-🌓 Dark mode  
-🧩 Custom components  
-🧠 Better animations & transitions  
+✅ 4+ extra pages: Subscription, Support, 2 Category Page , Product Detail  
+🧩 Custom components   
 📦 Ideal for real-world video apps
 
 👉 [🎁 Get the Full Version Now](https://digo1.gumroad.com/l/vibecast-next-js-streaming-template)
@@ -42,10 +40,9 @@ Perfect as a starting point for building:
 ---
 
 ## 🖼️ Screenshots
-
-> Suba uma imagem chamada `screenshot.jpg` e ative ela aqui abaixo:
-
-![Preview](./screenshot.jpg)
+![Preview](./VIBECAST-promo-cover.png)(https://vibecast-gamma.vercel.app/)
+![Preview](./Frame1.png)(https://vibecast-gamma.vercel.app/)
+![Preview](./Frame2.png)(https://vibecast-gamma.vercel.app/)
 
 ---
 
@@ -67,8 +64,7 @@ You may not resell this exact template as-is.
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by Rodrigo Shiomi  
-- Twitter: [@seuuser](https://twitter.com/seuuser)  
+Made with ❤️ by Rodrigo Shiomi   
 - Gumroad: [https://digo1.gumroad.com](https://digo1.gumroad.com)
 
 ---
