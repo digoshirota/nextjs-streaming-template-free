@@ -35,7 +35,7 @@ Perfect as a starting point for building:
 🧩 Custom components   
 📦 Ideal for real-world video apps
 
-👉 [🎁 Get the Full Version Now](https://gum.co/u/w2adazor)
+👉 [🎁 Get the Full Version Now](https://gum.co/u/r80qfcme)
 
 ---
 
